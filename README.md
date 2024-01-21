@@ -5,7 +5,7 @@
 🔍 To summarize my findings in a visually appealing way, I've included an infographic as a PDF file in this repository. You can view it directly below:
 
 <p align="center">
- <img src="" alt="Infographic" width="650"/>
+ <img src="Infographic.jpg" alt="Infographic" width="650"/>
 </p>
 
 
